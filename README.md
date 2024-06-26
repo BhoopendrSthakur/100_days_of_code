@@ -8,7 +8,7 @@
 **Day 3 Project: [Treasure Island Hunt](https://github.com/BhoopendrSthakur/100_days_of_code/blob/master/Day%203%20control%20flow%20and%20logical%20operators/02_tresure%20_island.py)**
 - Topics: Conditional Statements, Logical Operators, Code Blocks and Scope
 
-**Day 4 Project: [Rock, Paper, Scissors](https://github.com/Mikerniker/100_Days_of_Python/tree/main/Day04)**
+**Day 4 Project: [Rock, Paper, Scissors](https://github.com/BhoopendrSthakur/100_days_of_code/blob/master/Day%204%20randomisation%20and%20python%20list/rock_paper_scissor.py)**
 - Topics: Randomisation and Python Lists
 
 **Day 5 Project: [Password Generator](https://github.com/Mikerniker/100_Days_of_Python/tree/main/Day05)**
