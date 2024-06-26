@@ -1,5 +1,5 @@
 ## Beginner
-**Day 1 Project: [Band Name Generator](https://github.com/Mikerniker/100_Days_of_Python/tree/main/Day01)**
+**Day 1 Project: [Band Name Generator](https://github.com/BhoopendrSthakur/100_days_of_code/blob/master/Day%201%20working%20with%20variables%20to%20manage%20data/07%20band%20name%20generator.py)**
 - Topics: Printing, Commenting, Debugging, String Manipulation, and Variables
 
 **Day 2 Project: [Tip Calculator](https://github.com/Mikerniker/100_Days_of_Python/tree/main/Day02)**
