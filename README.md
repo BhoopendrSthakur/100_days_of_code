@@ -5,7 +5,7 @@
 **Day 2 Project: [Tip Calculator](https://github.com/BhoopendrSthakur/100_days_of_code/blob/master/Day%202%20understanding%20data%20types%20and%20how%20to%20manupilate%20string/tip%20calculator.py)**
 - Topics: Data Types, Numbers, Operations, Type Conversion, f-Strings
 
-**Day 3 Project: [Treasure Island Hunt](https://github.com/Mikerniker/100_Days_of_Python/tree/main/Day03)**
+**Day 3 Project: [Treasure Island Hunt](https://github.com/BhoopendrSthakur/100_days_of_code/blob/master/Day%203%20control%20flow%20and%20logical%20operators/02_tresure%20_island.py)**
 - Topics: Conditional Statements, Logical Operators, Code Blocks and Scope
 
 **Day 4 Project: [Rock, Paper, Scissors](https://github.com/Mikerniker/100_Days_of_Python/tree/main/Day04)**
